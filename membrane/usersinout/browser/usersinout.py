@@ -1,7 +1,7 @@
 import csv
 from StringIO import StringIO
 
-from dexterity.membrane.events import CreateMembraneEvent
+from my315ok.socialorgnization.events import CreateMembraneEvent
 from zope import event
 
 from zope.interface import implements
